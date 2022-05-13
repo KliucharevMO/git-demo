@@ -8,56 +8,56 @@ SOFTWARE QA ENGINEER
 Special interest in working remotely
 
 SUMMARY OF QUALIFICATIONS
-	•	More than 10 years of experience in construction as design engineer
-	•	10 years working with architectural documentation and requirements
-	•	8 years of security systems design
-	•	2 years project management experience
-	•	Knowledge of Waterfall and Scrum model of software development life cycle
-	•	Develop test documentation including check list, test cases, test matrices
-	•	Write bug reports and monitor their status
-	•	B1 English level
+	• More than 10 years of experience in construction as design engineer
+	• 10 years working with architectural documentation and requirements
+	• 8 years of security systems design
+	• 2 years project management experience
+	• Knowledge of Waterfall and Scrum model of software development life cycle
+	• Develop test documentation including check list, test cases, test matrices
+	• Write bug reports and monitor their status
+	• B1 English level
 PERSONAL
-	•	Attention to details
-	•	Fast learner
-	•	Well written and verbal communication skills
-	•	Working in a result oriented team
-	•	Working in multitasking mode
-	•	Working under stress 
+	• Attention to details
+	• Fast learner
+	• Well written and verbal communication skills
+	• Working in a result oriented team
+	• Working in multitasking mode
+	• Working under stress 
 TECHNICAL SKILLS
-	•	Platforms: Windows, UNIX
-	•	Mobile Platforms: Android OS, Fire OS
-	•	Software: Autodesk AutoCAD, Autodesk REVIT, MS Office, Visio, Microsoft Project
-	•	Databases: Fundamentals of Microsoft SQL Server
-	•	Tools: JIRA, DevTools, Postman
-	•	Methods:
-			End-to-End, Smoke, Functional, Regression, Compatibility testing
-			Happy path, Positive, Negative testing
-			White box, Black box, Grey box testing
+	• Platforms: Windows, UNIX
+	• Mobile Platforms: Android OS, Fire OS
+	• Software: Autodesk AutoCAD, Autodesk REVIT, MS Office, Visio, Microsoft Project
+	• Databases: Fundamentals of Microsoft SQL Server
+	• Tools: JIRA, DevTools, Postman
+	• Methods:
+		End-to-End, Smoke, Functional, Regression, Compatibility testing
+		Happy path, Positive, Negative testing
+		White box, Black box, Grey box testing
 WORK EXPERIENCE
 03/22 – Present
 Learning Project
 Software QA Engineer
-	•	Testing Web version of the application
-	•	Working with incomplete technical requirements to clarify data
-	•	Developing test cases
-	•	Utilizing Jira to report software bugs
-	•	Developing and executing SQL queries to Microsoft SQL Server database
+	• Testing Web version of the application
+	• Working with incomplete technical requirements to clarify data
+	• Developing test cases
+	• Utilizing Jira to report software bugs
+	• Developing and executing SQL queries to Microsoft SQL Server database
 02/21 – 04/22
 Project bureau APEX, Moscow, Russia
 Chief Engineer of Low Voltage System 
-	•	Writing requirements (technical specifications) to design of project documentation
-	•	Design documentation for security and fire protection systems in Autodesk AutoCAD and Autodesk REVIT
+	• Writing requirements (technical specifications) to design of project documentation
+	• Design documentation for security and fire protection systems in Autodesk AutoCAD and Autodesk REVIT
 11/16 – 01/21
 Nornickel, Moscow, Russia
 Project Manager
-	•	Analyzing of labor costs for design of project documentation in Microsoft Project
-	•	Negotiations with the customers
-	•	Business correspondence
+	• Analyzing of labor costs for design of project documentation in Microsoft Project
+	• Negotiations with the customers
+	• Business correspondence
 Chief Project Engineer
-	•	Standardization of project documentation design
-	•	Verification of design documentation for the technical requirements of the customer and building codes
+	• Standardization of project documentation design
+	• Verification of design documentation for the technical requirements of the customer and building codes
 Chief Design Engineer
-	•	Design documentation in Visio and MS Office
+	• Design documentation in Visio and MS Office
 EDUCATION
 	2022	Online open class of software testing, Portnov Computer School, Silicon Valley, Sunnyvale, CA, USA
 	2018	Bachelor’s degree in Civil Engineering, Belgorod State Technological University, Belgorod, Russia
